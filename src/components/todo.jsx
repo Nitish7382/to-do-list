@@ -58,7 +58,7 @@ const Todo = () => {
           />
           <button
             onClick={add}
-            className="bg-orange-600 border-none rounded-full w-32 h-14 text-lg text-white font-medium cursor-pointer"
+            className="bg-blue-600 border-none rounded-full w-32 h-14 text-lg text-white font-medium cursor-pointer"
           >
             ADD +
           </button>
